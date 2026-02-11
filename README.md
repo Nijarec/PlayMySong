@@ -8,5 +8,5 @@ This is a personal project to create my own music player, developed as a .NET pr
 
 ## 📥 Descargar Instalador
 
-Puedes descargar la versión en ZIP aquí:
-[InstallerPlayMySong] (https://github.com/Nijarec/PlayMySong/blob/f8c83ca466a3feb91e6818c9f611b0af98c6ea78/PlayMySongInstaller.zip)
+[Descargar PlayMySong v1.0](https://github.com/TU-USUARIO/TU-REPO/raw/main/PlayMySong_v1.0.zip)
+
